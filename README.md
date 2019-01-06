@@ -36,3 +36,13 @@ Please pick an ending year:
 2200
 [2000, 2004, 2008, 2012, 2016, 2020, 2024, 2028, 2032, 2036, 2040, 2044, 2048, 2052, 2056, 2060, 2064, 2068, 2072, 2076, 2080, 2084, 2088, 2092, 2096, 2104, 2108, 2112, 2116, 2120, 2124, 2128, 2132, 2136, 2140, 2144, 2148, 2152, 2156, 2160, 2164, 2168, 2172, 2176, 2180, 2184, 2188, 2192, 2196] => true
 ```
+
+
+### Tool 3 (leap3.rb):
+- This program when given a year, will return the closest leap year (this could be before or after the given year). If there is an equal distance from the given year to a leap year before and a leap year after, give the result as the leap year after. 
+
+```
+Please enter a year to be returned the closest leap year:
+2001
+2000 is the closest leap year to 2001
+```
