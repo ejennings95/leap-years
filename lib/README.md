@@ -25,6 +25,8 @@ Leap years are calculated according to the following rules:
  => false
 ```
 
+- Includes an rspec test using TDD (leap_spec.rb)
+
 ### Tool 2 (leap2.rb):
 - This program takes user-input for the start year and end year. It will then return an array of all the leap years between:
 
@@ -39,7 +41,7 @@ Please pick an ending year:
 
 
 ### Tool 3 (leap3.rb):
-- This program when given a year, will return the closest leap year (this could be before or after the given year). If there is an equal distance from the given year to a leap year before and a leap year after, give the result as the leap year after. 
+- This program when given a year, will return the closest leap year (this could be before or after the given year). If there is an equal distance from the given year to a leap year before and a leap year after, give the result as the leap year after.
 
 ```
 Please enter a year to be returned the closest leap year:
