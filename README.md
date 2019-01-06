@@ -24,3 +24,15 @@ Leap years are calculated according to the following rules:
 2.4.1 :006 > leap_year(1500)
  => false
 ```
+
+### Tool 2 (leap2.rb):
+- This program takes user-input for the start year and end year. It will then return an array of all the leap years between:
+
+```
+Let's print all the leap years between two chosen years!
+Please pick a starting year:
+2000
+Please pick an ending year:
+2200
+[2000, 2004, 2008, 2012, 2016, 2020, 2024, 2028, 2032, 2036, 2040, 2044, 2048, 2052, 2056, 2060, 2064, 2068, 2072, 2076, 2080, 2084, 2088, 2092, 2096, 2104, 2108, 2112, 2116, 2120, 2124, 2128, 2132, 2136, 2140, 2144, 2148, 2152, 2156, 2160, 2164, 2168, 2172, 2176, 2180, 2184, 2188, 2192, 2196] => true
+```
